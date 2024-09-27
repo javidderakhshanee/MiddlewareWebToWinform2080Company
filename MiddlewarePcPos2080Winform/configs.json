@@ -1,0 +1,13 @@
+{
+  "RequestPath": "d:\\pos\\requests",
+  "ResponsePath": "d:\\pos\\responses",
+  "LogPath": "d:\\pos\\logs",
+  "IsSavePath": true,
+  "TimePullSecond": 2,
+  "WaitTimeToContinueRetrySecond": 4,
+  "Retry": 3,
+  "AfterRetryFailedStrategy": "Hold",
+  "ProvidersReturnCodesFilePath": {
+    "Pasargad": ""
+  }
+}

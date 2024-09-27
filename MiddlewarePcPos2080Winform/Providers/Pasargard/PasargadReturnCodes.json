@@ -1,0 +1,280 @@
+{
+  "Codes": [
+    {
+      "Code": 2,
+      "Message": "Already Reversed"
+    },
+    {
+      "Code": 3,
+      "Message": "Invalid Merchant"
+    },
+    {
+      "Code": 9,
+      "Message": "System Busy"
+    },
+    {
+      "Code": 12,
+      "Message": "Transaction Invalid"
+    },
+    {
+      "Code": 13,
+      "Message": "Incorrect Amount"
+    },
+    {
+      "Code": 14,
+      "Message": "Invalid Card Number"
+    },
+    {
+      "Code": 19,
+      "Message": "Reenter Transaction"
+    },
+    {
+      "Code": 25,
+      "Message": "Record Not Found"
+    },
+    {
+      "Code": 30,
+      "Message": "Invalid Required Data"
+    },
+    {
+      "Code": 31,
+      "Message": "Invalid Acquirer"
+    },
+    {
+      "Code": 33,
+      "Message": "Expired Card 33"
+    },
+    {
+      "Code": 36,
+      "Message": "Restricted Card 36"
+    },
+    {
+      "Code": 38,
+      "Message": "Exceeded Pin Retry"
+    },
+    {
+      "Code": 39,
+      "Message": "Unrecognized Account Info"
+    },
+    {
+      "Code": 41,
+      "Message": "Lost Card"
+    },
+    {
+      "Code": 43,
+      "Message": "Stolen Card"
+    },
+    {
+      "Code": 51,
+      "Message": "Insufficient Funds"
+    },
+    {
+      "Code": 54,
+      "Message": "Expired Card 54"
+    },
+    {
+      "Code": 55,
+      "Message": "Incorrect PIN"
+    },
+    {
+      "Code": 56,
+      "Message": "No Card Record"
+    },
+    {
+      "Code": 57,
+      "Message": "Service Not Allowed On Card"
+    },
+    {
+      "Code": 58,
+      "Message": "Card Not Allowed On Terminal"
+    },
+    {
+      "Code": 61,
+      "Message": "Withdrawal Amount"
+    },
+    {
+      "Code": 62,
+      "Message": "Restricted Card 62"
+    },
+    {
+      "Code": 65,
+      "Message": "Restricted Withdrawal No"
+    },
+    {
+      "Code": 66,
+      "Message": "Inactive Account"
+    },
+    {
+      "Code": 67,
+      "Message": "Capture Card"
+    },
+    {
+      "Code": 68,
+      "Message": "Received Too Late"
+    },
+    {
+      "Code": 75,
+      "Message": "Exceeded Password Retry"
+    },
+    {
+      "Code": 76,
+      "Message": "Incorrect Interchange Amount"
+    },
+    {
+      "Code": 77,
+      "Message": "Invalid Working Day"
+    },
+    {
+      "Code": 78,
+      "Message": "Invalid Working Day"
+    },
+    {
+      "Code": 79,
+      "Message": "Undefined Account"
+    },
+    {
+      "Code": 80,
+      "Message": "Internal Error"
+    },
+    {
+      "Code": 84,
+      "Message": "No Response"
+    },
+    {
+      "Code": 90,
+      "Message": "Cutoff In Progress"
+    },
+    {
+      "Code": 91,
+      "Message": "Time Out"
+    },
+    {
+      "Code": 92,
+      "Message": "Invalid Card Issuer"
+    },
+    {
+      "Code": 93,
+      "Message": "Incomplete Transaction"
+    },
+    {
+      "Code": 94,
+      "Message": "Duplicate Message"
+    },
+    {
+      "Code": 95,
+      "Message": "Incorrect Old PIN"
+    },
+    {
+      "Code": 97,
+      "Message": "All Charge Sold"
+    },
+    {
+      "Code": 98,
+      "Message": "Charge Not Available"
+    },
+    {
+      "Code": 99,
+      "Message": "Incorrect Bill Payment ID"
+    },
+    {
+      "Code": 120,
+      "Message": "Invalid Transaction Amount (Terminal Error)"
+    },
+    {
+      "Code": 121,
+      "Message": "Invalid Terminal Password (Terminal Error)"
+    },
+    {
+      "Code": 122,
+      "Message": "Invalid Bill ID (Terminal Error)"
+    },
+    {
+      "Code": 123,
+      "Message": "Invalid Payment ID (Terminal Error)"
+    },
+    {
+      "Code": 124,
+      "Message": "Insufficient Transaction Data (Terminal Error)"
+    },
+    {
+      "Code": 125,
+      "Message": "Invalid eVoucher Code (Terminal Error)"
+    },
+    {
+      "Code": 126,
+      "Message": "Transaction Not Found (Terminal Error)"
+    },
+    {
+      "Code": 127,
+      "Message": "Card Reader Or Get Pin Time out(Terminal Error)"
+    },
+    {
+      "Code": 128,
+      "Message": "Transaction Cancel By User(Terminal Error)"
+    },
+    {
+      "Code": 129,
+      "Message": "Other Error(Terminal Error)"
+    },
+    {
+      "Code": 130,
+      "Message": "Other Error(NO Print Paper Available)"
+    },
+    {
+      "Code": 131,
+      "Message": "Other Error(Invalid Price)"
+    },
+    {
+      "Code": 132,
+      "Message": "Timeout"
+    },
+    {
+      "Code": 133,
+      "Message": "PosDisonnect"
+    },
+    {
+      "Code": 134,
+      "Message": "InvalidMultipleAccount"
+    },
+    {
+      "Code": 135,
+      "Message": "InvalidAccount"
+    },
+    {
+      "Code": 136,
+      "Message": "Unsucessful"
+    },
+    {
+      "Code": 137,
+      "Message": "FileTransfer"
+    },
+    {
+      "Code": 138,
+      "Message": "AFC_IncompleteTransaction"
+    },
+    {
+      "Code": 139,
+      "Message": "Logon Error"
+    },
+    {
+      "Code": 140,
+      "Message": "Already Settled"
+    },
+    {
+      "Code": 161,
+      "Message": "InsufficientAmount"
+    },
+    {
+      "Code": 501,
+      "Message": "MacFail"
+    },
+    {
+      "Code": 999,
+      "Message": "Cancel By pos"
+    },
+    {
+      "Code": 1000,
+      "Message": "Other"
+    }
+  ]
+}
